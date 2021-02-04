@@ -1,1 +1,1 @@
-LinkedIn Clone built with React.js and Firebase
+LinkedIn Clone built with React.js, Redux and Firebase
